@@ -23,6 +23,6 @@ I'm a Software Engineer with 5+ years of experience in .NET, Web Development App
 
 
 ## 📫 How to reach me
-- 📧 Email: prasannakumarreddy.gade8@gmail.com
-- 📱 Phone: (314) 657-8762
+- 📧 Email: prasannakumarreddy8.gade@gmail.com
+- 📱 Phone: (469) 608-0873
 - 🌐 [LinkedIn](https://www.linkedin.com/in/prasannakumarreddygade/)
